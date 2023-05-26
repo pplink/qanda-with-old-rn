@@ -154,7 +154,7 @@ allprojects {
             url 'https://maven.pkg.github.com/pagecall/pagecall-android-sdk'
             credentials {
                 username = "taemini"
-                password = "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"
+                password = "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"
             }
         }
     }

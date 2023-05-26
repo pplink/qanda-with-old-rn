@@ -5721,10 +5721,10 @@ react-native-gradle-plugin@^0.71.18:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.18.tgz#20ef199bc85be32e45bb6cc069ec2e7dcb1a74a6"
   integrity sha512-7F6bD7B8Xsn3JllxcwHhFcsl9aHIig47+3eN4IHFNqfLhZr++3ElDrcqfMzugM+niWbaMi7bJ0kAkAL8eCpdWg==
 
-react-native-pagecall@2.0.3-test0:
-  version "2.0.3-test0"
-  resolved "https://registry.yarnpkg.com/react-native-pagecall/-/react-native-pagecall-2.0.3-test0.tgz#6ee26e0cfe3747ba0b3dc8911e926b29ed2ca56f"
-  integrity sha512-chwOkn7p3bRVeVzq1B4HZgt/exGcRgIafzN5Ivkspoyl5KZB8LP6KnYxa0mkSOoeRBwcGbj2uPTKtPYctYlPgQ==
+react-native-pagecall@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-pagecall/-/react-native-pagecall-2.0.4.tgz#60668beb1ef6d84f5062dbf06acf21f0dc156728"
+  integrity sha512-i2aMUSWVcfz7ODXZM2VDCPsUwxIE18/0IPSDzBAKLgv8MP0cNhijyTqk/YEg2SV5trlXzZdeOBHWidrvZpYjQA==
 
 react-native@0.71.8:
   version "0.71.8"
